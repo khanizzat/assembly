@@ -1,0 +1,222 @@
+html body
+{
+	height: 100%;
+}
+body
+{
+	width: 100%;
+	margin:0 auto;
+	padding: 0px;
+}
+header
+{
+
+	background-image: url('a.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+	position: relative;
+}
+.assembly a h2
+{
+	color: white;
+	font-family:  'Didact Gothic', sans-serif;
+	font-size: 40px;
+	margin-left:50px; 
+	
+}
+#ul ul
+{
+	display: inline-block;
+}
+#ul li
+{
+	list-style-type: none;
+	color: lightgray;
+	display: block;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 20px;
+	margin-right: 40px;
+	font-family: 'Didact Gothic', sans-serif;
+}
+#ul li a
+{
+	padding: 1em 1.5em;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-size: 0.8em;
+	color: rgba(255,255,255,0.80);
+
+}
+
+.topic
+{
+	padding-top: 300px;
+	text-align: center;
+}
+.topic h1
+{
+	color: white;
+	font-weight: bolder;
+	font-size: 70px;
+	letter-spacing: 1px;
+	margin-bottom: 0px;
+	font-family: 'Didact Gothic', sans-serif;
+}
+.topic span
+{
+	color: lightgray;
+	font-size: 30px;
+	margin-top: 0px;
+	font-family: 'Didact Gothic', sans-serif;
+}
+#button
+{
+	width: 200px;
+	height: 60px;
+	background: #2651a8;
+	position: relative;
+	top: 120px;
+	font-size: 20px;
+	font-weight: 700;
+	font-family: 'Didact Gothic', sans-serif;
+	border:0px;
+	color: #fff;
+	border-radius: 6px;
+	text-transform: uppercase;
+}
+section
+{
+	position: relative;
+	padding:5em 0em 7em 0em;
+	background: #fff;	
+	width: 100%;
+	height: 350px;
+}
+.topicc 
+{
+	position: relative;
+	text-align: center;
+}
+.topicc h1
+{
+	font-family: 'Didact Gothic', sans-serif;
+	text-transform: capitalize;
+	font-size: 40px;
+	font-weight: bolder;
+}
+.topicc span
+{
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 20px;
+	color: gray;
+
+}
+.pragraph
+{
+	text-align: center;
+	display: block;
+}
+p 
+{
+	margin-top: 50px; 
+	display: block;
+	line-height: 25px;
+	text-align: center;
+	color: gray;
+	letter-spacing: 0.5px;
+
+}
+.left,.middle,.right{
+	float:left;
+	padding-left:30px;
+}
+button
+{
+	width: 150px;
+	height: 50px;
+	background: #2651a8;
+	border-color: rgba(0,0,0,8);
+	border-radius: 6px;
+	color: white;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 20px;
+}
+footer
+{
+	background: #2651a8;
+	position: relative;
+	background-size: cover;
+	padding: 7em, 0, 7em, 0;
+	text-align: center;
+	width: 100%;
+	clear: both;
+	height: 450px;
+}
+footer h1
+{
+	color: #fff;
+	font-size: 40px;
+	font-family:  'Didact Gothic', sans-serif;
+	text-transform: capitalize;
+	padding-top: 50px;
+	margin-bottom: 5px;
+
+}
+footer span
+{
+	color: lightgray;
+	font-family: 'Didact Gothic', sans-serif;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+.pa
+{
+	margin-top: 50px;
+	color: lightgray;
+	font-size: 20px;
+	font-family:  'Didact Gothic', sans-serif;
+	position: relative;
+}
+.pa a
+{
+	font-weight: bolder;
+	color: lightgray;
+}
+.b
+{
+	position: relative;
+	margin-top: 50px;
+}
+.last
+{
+	background: #fff;
+	color:  #2651a8;
+	border-radius: 6px;
+	font-size: 1em;
+	border: none;
+	width: 200px;
+	height: 50px;
+}
+.copyright
+{
+	color: gray;
+	position: relative;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: 'Didact Gothic', sans-serif;
+
+}
+.copyright span
+{
+	margin-top: 50px;
+	position: relative;
+	top: 50px;
+
+
+}
